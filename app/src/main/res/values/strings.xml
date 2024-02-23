@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+    <string name="layout_second">Layout Second</string>
+    <string name="layout_first">Layout First</string>
+    <string name="layout_third">Layout Third</string>
+    <string name="layout_fourth">Layout Fourth</string>
+    <string name="layout_fifth">Layout Fifth</string>
+</resources>
